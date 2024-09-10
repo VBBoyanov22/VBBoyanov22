@@ -1,5 +1,3 @@
-### Hi, my name is Veselin Boyanov
-
 ## About me
 
 - Currently studying in VSCPI.
