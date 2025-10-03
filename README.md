@@ -30,7 +30,7 @@ I build small, focused projects to learn fast and deploy what works.
 ---
 
 ## GitHub Snapshot
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBBoyanov22&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBBoyanov22&langs_count=6&layout=compact&hide_border=true&hide=css,html&exclude_repo=repo1,repo2&theme=default)
 
 ---
 
