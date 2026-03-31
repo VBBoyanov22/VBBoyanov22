@@ -1,15 +1,15 @@
 # Veselin Boyanov
 
-Student at ***VSCPI*** • **Software Development** & **Machine Learning**
+Student at ***VSCPI*** • **Backend Development** & **Machine Learning**
 
 I build small, focused projects to learn fast and deploy what works.
 
 ---
 
 ## Focus
-- **Learning:** ML fundamentals, model training, evaluation, and deployment
-- **Stack:** C++, Python JS; Pytorch • NumPy/Pandas • FastAPI • Docker • PostgreSQL
-- **Interests:** LLMs, CV, tooling, and reproducible ML
+- **Learning:** Backend development, ML fundamentals, and deployment
+- **Stack:** Java, C/C++, JS; • SpringBoot • Docker • PostgreSQL
+- **Interests:** Backend development and LLMs
 
 ---
 
